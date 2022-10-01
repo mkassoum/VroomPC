@@ -1,6 +1,6 @@
 # VroomPC
 If you just wanna use the Tool you can Download the EXE file only
-Its a simple Project to help Gamers get more Preformance with their low or Mid-End PCs
+Its a simple Tool to help Gamers get more Preformance with their low or Mid-End PCs
 It allows Users to change the Power options and energy consomption, Disable background Apps, lowers the Resolution Timer response time and flushs the DNS.
 and The last Function just resets everything back to normal to preserve power consomption and keep the life time of the hardware at optimal state.
 Its fully written in Java and need Java Runtime Enviroment to run, and the GUI is deigned with Jframe .
