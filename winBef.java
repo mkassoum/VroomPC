@@ -1,6 +1,6 @@
 
 public class winBef {
-    public static String maxPref = "powercfg.exe /setactive 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c";
+    public static String maxPref = "powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61";
     public static String flushDNS = "ipconfig /FlushDNS";
     public static String disBackG = "Reg Add HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\BackgroundAccessApplications /v GlobalUserDisabled /t REG_DWORD /d 1 /f";
     public static String minRes1 = "bcdedit /set useplatformtick yes";
